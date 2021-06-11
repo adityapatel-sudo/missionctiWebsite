@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Jun 2021 12:10:35 at https://irvingtoncti.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://irvingtoncti.org -O1 "C:\Users\adity\WebstormProjects\citmsjhs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:11:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://irvingtoncti.org/assets/js/app.js
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/js/jquery.barfiller.js (from https://irvingtoncti.org/)
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/css/owl.video.play.png (from https://irvingtoncti.org/assets/css/owl.carousel.min.css)
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/img/slider/slider-img-1.jpg (from https://irvingtoncti.org/assets/css/style.css)
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/img/background-img/bg-img-2.jpg (from https://irvingtoncti.org/assets/css/style.css)
+12:11:33	Error: 	"Bad Request" (400) at link https://irvingtoncti.org/assets/img/background-img/bg-img-3.jpg (from https://irvingtoncti.org/assets/css/style.css)
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/img/elements/primary-check.png (from https://irvingtoncti.org/assets/css/style.css)
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/img/elements/success-check.png (from https://irvingtoncti.org/assets/css/style.css)
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/img/elements/disabled-check.png (from https://irvingtoncti.org/assets/css/style.css)
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/img/elements/primary-radio.png (from https://irvingtoncti.org/assets/css/style.css)
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/img/elements/success-radio.png (from https://irvingtoncti.org/assets/css/style.css)
+12:11:33	Error: 	"Not Found" (404) at link https://irvingtoncti.org/assets/img/elements/disabled-radio.png (from https://irvingtoncti.org/assets/css/style.css)
+12:11:43	Error: 	"Bad Request" (400) at link https://irvingtoncti.org/assets/img/gallery/HealthHacks2021Elementary3.png (from https://irvingtoncti.org/projects.html)
+12:12:07	Error: 	"Not Found" (404) at link https://irvingtoncti.org/events/healthhacks2021/assets/img/favicon.ico (from https://irvingtoncti.org/events/healthhacks2021/healthhacks2021.html)
+12:12:09	Error: 	"Not Found" (404) at link https://irvingtoncti.org/events/healthhacks2021/index.html (from https://irvingtoncti.org/events/healthhacks2021/healthhacks2021.html)
+12:12:09	Error: 	"Not Found" (404) at link https://irvingtoncti.org/events/healthhacks2021/summit (from https://irvingtoncti.org/events/healthhacks2021/healthhacks2021.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 34 seconds : 198 links scanned, 182 files written (70730920 bytes overall) [68327536 bytes received at 726888 bytes/sec], 3887986 bytes transferred using HTTP compression in 93 files, ratio 35%
+(15 errors, 1 warnings, 0 messages)
