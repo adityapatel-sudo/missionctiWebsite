@@ -2653,15 +2653,15 @@ h3 {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_team.scss */
 .our_team_member {
-  padding-top: 70px;
-  padding-bottom: 130px;
+  padding-top: 20px;
+  padding-bottom: 60px;
 }
 
 @media (max-width: 767px) {
   /* line 1, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_team.scss */
   .our_team_member {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 }
 
