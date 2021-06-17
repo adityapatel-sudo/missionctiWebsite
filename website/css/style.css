@@ -1437,6 +1437,11 @@ h3 {
   font-size: 18px;
 }
 
+#competitive_programming {
+  font-size: 50px;
+  line-height: 55px;
+}
+
 /* line 62, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_about.scss */
 .about_area .about_tutorials .courses {
   border-radius: 50%;
