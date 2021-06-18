@@ -2569,7 +2569,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 1, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_coures.scss */
   .our_courses {
-    padding-top: 50px;
+    padding-top: 0px;
     padding-bottom: 20px;
   }
 }
