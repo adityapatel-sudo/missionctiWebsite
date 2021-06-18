@@ -2577,11 +2577,12 @@ h3 {
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 1, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_coures.scss */
   .our_courses {
-    padding-top: 120px;
     padding-bottom: 90px;
   }
 }
-
+#newsletter_script{
+  font-size: 20px;
+}
 /* line 16, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_coures.scss */
 .our_courses .single_course {
   border: 1px solid #E8E8E8;
