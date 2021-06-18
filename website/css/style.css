@@ -4250,7 +4250,9 @@ h6 {
 .ordered-list {
   margin-left: 30px;
 }
-
+.zero_margin{
+  margin-left: 0px !important;
+}
 /* line 475, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_elements.scss */
 .ordered-list li {
   list-style-type: decimal-leading-zero;
