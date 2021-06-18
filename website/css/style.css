@@ -1292,6 +1292,14 @@ h3 {
   font-weight: normal;
 }
 
+#discover_your_passion{
+  color: #3c35ce;
+  font-weight: bold;
+  font-size: 27px;
+  line-height: 40px;
+  font-family: "Poppins", sans-serif;
+}
+
 /* line 33, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_info h3 {
   color: #ffffff;
