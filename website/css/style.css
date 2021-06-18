@@ -602,7 +602,12 @@ h3 {
   border: 1px solid #FDAE5C;
   display: inline-block;
 }
-
+#class_timings{
+  font-size: 20px;
+  position: relative;
+  bottom: 10px;
+  display: inline-block;
+}
 /* line 178, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_btn.scss */
 .boxed_btn_orange2:hover {
   color: #fff !important;
