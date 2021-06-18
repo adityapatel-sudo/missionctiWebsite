@@ -1285,6 +1285,21 @@ h3 {
   }
 }
 
+#changinTheWorld{
+  color: #FFFFFF;
+  font-size: 20px;
+  margin-bottom: 30px;
+  font-weight: normal;
+}
+
+#discover_your_passion{
+  color: #3c35ce;
+  font-weight: bold;
+  font-size: 27px;
+  line-height: 40px;
+  font-family: "Poppins", sans-serif;
+}
+
 /* line 33, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_info h3 {
   color: #ffffff;
@@ -1292,7 +1307,7 @@ h3 {
   text-transform: capitalize;
   font-weight: 400;
   line-height: 70px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   margin-top: 10px;
 }
 
@@ -1435,6 +1450,13 @@ h3 {
 .about_area .about_tutorials .text_info p {
   color: #fff;
   font-size: 18px;
+}
+
+#competitive_programming {
+  font-size: 50px;
+  line-height: 55px;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 /* line 62, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_about.scss */
