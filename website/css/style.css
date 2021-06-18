@@ -579,7 +579,10 @@ h3 {
   border: 1px solid #FDAE5C;
   color: #FDAE5C !important;
 }
-
+#sign_up_header{
+  font-size: 20px;
+  font-family: "Poppins", serif;
+}
 /* line 166, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_btn.scss */
 .boxed_btn_orange2 {
   cursor: pointer;
