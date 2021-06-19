@@ -266,7 +266,7 @@
                                         <h3><a href="#">Intro to Competitive Programming</a></h3>
                                         <div class="star_prise d-flex justify-content-between">
                                             <div class="star">
-                                                <aF href="competitive_programming.html" class="genric-btn success circle">More info</aF>
+                                                <a href="competitive_programming.html" class="genric-btn success circle">More info</a>
                                             </div>
                                             <div class="prise">
                                                 <a href="https://forms.gle/xni6Y6uXZkmEmfKf9" class="genric-btn primary circle">Sign Up</a>
@@ -345,9 +345,10 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6">
                     <div class="newsletter_form">
                         <br>
-                        <form action="#" class="newsletter_form">
-                            <input type="text" placeholder="Enter your email">
-                            <button  type="submit">Sign Up</button>
+                        <form action="https://formspree.io/f/xwkabagk" method="POST" class="newsletter_form">
+                            <input type="hidden" name="_subject" value="Newsletter Subscriber!" />
+                            <input id="newsletter_email" type="text" name="_message" placeholder="Enter your email">
+                            <button type="submit" onclick="toast()">Sign Up</button>
                         </form>
                     </div>
                 </div>
@@ -405,7 +406,14 @@
         </div>
     </div>
     <!-- our_courses_end -->
-
+    <div id="snackbar">Signed up!</div>
+    <script>
+        function toast() {
+            var x = document.getElementById("snackbar");
+            x.className = "show";
+            setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+        }
+    </script>
 
 <!--
 
